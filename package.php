@@ -30,7 +30,7 @@
 
   </section>
 
-  <div class="heading" style="background:url(packages.jpg) no-repeat">
+  <div class="heading" style="background:url(../packages.jpg) no-repeat">
     <h1>packages</h1>
   </div>
 
@@ -42,7 +42,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="jeita.jpg" alt="">
+      <img src="../jeita.jpg" alt="">
     </div>
     <div class="content">
       <h3> Jeita grotto</h3>
@@ -53,7 +53,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="jbeil.jpg" alt="">
+      <img src="../jbeil.jpg" alt="">
     </div>
     <div class="content">
       <h3> Jbeil</h3>
@@ -64,7 +64,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="harissa.jpg" alt="">
+      <img src="../harissa.jpg" alt="">
     </div>
     <div class="content">
       <h3> Harissa</h3>
@@ -75,7 +75,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="baalbeck.jpg" alt="">
+      <img src="../baalbeck.jpg" alt="">
     </div>
     <div class="content">
       <h3> Baalback</h3>
@@ -86,7 +86,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="raouche.jpg" alt="">
+      <img src="../raouche.jpg" alt="">
     </div>
     <div class="content">
       <h3> Raouche Rock</h3>
@@ -97,7 +97,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="chouwen.jpg" alt="">
+      <img src="../chouwen.jpg" alt="">
     </div>
     <div class="content">
       <h3> Chouwen</h3>
@@ -108,7 +108,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="afqa.jpg" alt="">
+      <img src="../afqa.jpg" alt="">
     </div>
     <div class="content">
       <h3> Afqa</h3>
@@ -119,7 +119,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="akoura.jpg" alt="">
+      <img src="../akoura.jpg" alt="">
     </div>
     <div class="content">
       <h3> Akoura</h3>
@@ -130,7 +130,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="arez.jpg" alt="">
+      <img src="../arez.jpg" alt="">
     </div>
     <div class="content">
       <h3> Arez</h3>
@@ -141,7 +141,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="batroun.jpg" alt="">
+      <img src="../batroun.jpg" alt="">
     </div>
     <div class="content">
       <h3> Batroun</h3>
@@ -152,7 +152,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="downtown.jpg" alt="">
+      <img src="../downtown.jpg" alt="">
     </div>
     <div class="content">
       <h3> Downtown</h3>
@@ -163,7 +163,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="faraya.jpg" alt="">
+      <img src="../faraya.jpg" alt="">
     </div>
     <div class="content">
       <h3> Faraya</h3>
@@ -174,7 +174,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="raouche.jpg" alt="">
+      <img src="../raouche.jpg" alt="">
     </div>
     <div class="content">
       <h3> Raouche</h3>
@@ -185,7 +185,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="sidon.jpg" alt="">
+      <img src="../sidon.jpg" alt="">
     </div>
     <div class="content">
       <h3> Saida</h3>
@@ -196,7 +196,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="sour.jpg" alt="">
+      <img src="../sour.jpg" alt="">
     </div>
     <div class="content">
       <h3> Tyre</h3>
@@ -207,7 +207,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="tripoli.jpg" alt="">
+      <img src="../tripoli.jpg" alt="">
     </div>
     <div class="content">
       <h3> Tripoli</h3>
@@ -218,7 +218,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="wadikadicha.jpg" alt="">
+      <img src="../wadikadicha.jpg" alt="">
     </div>
     <div class="content">
       <h3> Wadi Kadicha</h3>
@@ -229,7 +229,7 @@
 
   <div class="box">
     <div class="image">
-      <img src="zaytounabay.jpg" alt="">
+      <img src="../zaytounabay.jpg" alt="">
     </div>
     <div class="content">
       <h3> Zaytouna Bay</h3>

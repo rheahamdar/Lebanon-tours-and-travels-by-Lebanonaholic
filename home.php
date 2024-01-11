@@ -41,7 +41,7 @@
         </div>
 
         <div class="video-container">
-            <video src='Rise Above Lebanon (Full Version).mp4' id="video-slider" loop autoplay muted></video>
+            <video src='../Rise Above Lebanon (Full Version).mp4' id="video-slider" loop autoplay muted></video>
         </div>
 
     </section>
@@ -102,7 +102,7 @@
                          
       <div class="box">
         <div class="image">
-          <img src="jeita.jpg" alt="">
+          <img src="../jeita.jpg" alt="">
         </div>
         <div class="content">
           <h3> Jeita grotto</h3>
@@ -113,7 +113,7 @@
 
       <div class="box">
         <div class="image">
-          <img src="jbeil.jpg" alt="">
+          <img src="../jbeil.jpg" alt="">
         </div>
         <div class="content">
           <h3> Jbeil</h3>
@@ -124,7 +124,7 @@
 
       <div class="box">
         <div class="image">
-          <img src="harissa.jpg" alt="">
+          <img src="../harissa.jpg" alt="">
         </div>
         <div class="content">
           <h3> Harissa</h3>

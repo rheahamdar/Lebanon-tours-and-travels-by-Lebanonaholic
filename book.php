@@ -30,7 +30,7 @@
 
   </section>
 
-  <div class="heading" style="background:url(bookings.jpg) no-repeat">
+  <div class="heading" style="background:url(../bookings.jpg) no-repeat">
     <h1>book now</h1>
   </div>
 

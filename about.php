@@ -31,14 +31,14 @@
 
   </section>
 
-  <div class="heading" style="background:url(header.jpg) no-repeat">
+  <div class="heading" style="background:url(../header.jpg) no-repeat">
     <h1>about us</h1>
   </div>
 
   <section class="about">
 
     <div class="image">
-      <img src="photo7.jpeg" alt="">
+      <img src="../photo7.jpeg" alt="">
     </div>
 
     <div class="content">
@@ -78,7 +78,7 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <img src="guest1.jpg" alt="">
+          <img src="../guest1.jpg" alt="">
           <p>I booked a tour with Lebanonaholic during my trip to Beirut, and I must say I was thoroughly impressed. From start to finish, everything was exceptionally well-organized and executed. The tour guide was knowledgeable, professional, and friendly, and she went to ensure that I had a fantastic experience. The itinerary was well-crafted and included many hidden gems that I would have otherwise missed out on. The transportation was comfortable, and the logistics were seamless, making my trip stress-free and enjoyable. The guide's flexibility in accommodating my interests and preferences was much appreciated, and her recommendations for restaurants and local delicacies were spot on. I highly recommend Lebanonaholic to anyone seeking a top-notch tour experience in Beirut. They exceeded my expectations and made my visit to Lebanon genuinely unforgettable.</p>
         </div>
 
@@ -91,7 +91,7 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <img src="guest2.jpg" alt="">
+          <img src="../guest2.jpg" alt="">
           <p>Rouba was amazing! Extremely knowledgeable on all the sites and their history. Charismatic and always willing to help us have the best time possible. Highly recommend having Rouba as your tour guide when visiting Lebanon.</p>
         </div>
 
@@ -104,7 +104,7 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <img src="guest3.jpg" alt="">
+          <img src="../guest3.jpg" alt="">
           <p>Fantastic tour and fantastic tourgide. Rouba is a woman I would marry. She has a great personality, she is very patient and makes your tour wonderful.</p>
         </div>
 
@@ -117,7 +117,7 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
           </div>
-          <img src="guest4.jpg" alt="">
+          <img src="../guest4.jpg" alt="">
           <p>What a lovely person Rouba is! I was with my 12 year old son and Rouba took us on 2 day trips - one down to Tyre and one north to Byblos.</p>
         </div>
       
@@ -130,7 +130,7 @@
               <i class="fas fa-star"></i>
               <i class="fas fa-star"></i>
             </div>
-            <img src="guest5.jpg" alt="">
+            <img src="../guest5.jpg" alt="">
             <p>I went with my friend on this day trip to Jeita Grotto, Byblos and Harissa. As soon as Rouba picked us up, we knew that we were in safe hands. We fell in love with Jeita Grotto and Harissa and Rouba quickly won our hearts! She shared so much information with us, was open to lots of questions and took us amazing pictures! Without her, our stay in Lebanon wouldn't be the same. We made great memories! Thank you, Rouba!</p>
         </div>
 
@@ -143,7 +143,7 @@
               <i class="fas fa-star"></i>
               <i class="fas fa-star"></i>
             </div>
-            <img src="guest6.jpg" alt="">
+            <img src="../guest6.jpg" alt="">
             <p>If you want to explore Lebanon, Rouba is definately a person to consider. She's always with you wherever you go, eager to help and recomend best locations to travel and best restaurants to taste the local food.
               Depending on your pace and needs she has numerous ways to experience Lebanese wonders to the fullest. Want to stop only for a picture or go to the beach? - No problem! - Rouba understands your interests and wishes!
               Her warm personality, kindness and helpfulness gives you comfort and feeling that you're in good hands. She's passionate what she's doing and guides you smoothly to places you want to visit.
@@ -198,6 +198,8 @@
   </section>
 
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src='js\script.js' defer></script>
+
 
   <script>
   var swiper = new Swiper(".reviews-slider", {

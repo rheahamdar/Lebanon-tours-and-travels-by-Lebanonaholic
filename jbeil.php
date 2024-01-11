@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE-edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>home</title>
+    <title>jbeil</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
@@ -18,14 +18,13 @@
  
 
   
-  .photos .heading-title1{
+  h1{
       font-size: 6rem;
       color: var(--main-color);
       text-align: center;
       text-transform: uppercase;
       letter-spacing: 2px;
-      top: 0;  
-      margin: 0;
+      padding-top: 20px;
   }
     .swiper {
       height: 650px; 
@@ -234,33 +233,31 @@
 
     </section>
 
-    
+    <h1> jbeil </h1>
 
   <section class="photos">
-
-    <h1 class="heading-title1"> jbeil </h1>
 
     <div class="swiper photos-slider">
 
       <div class="swiper-wrapper">
 
         <div class="swiper-slide">
-          <img src="jbeil.jpg" alt="">
+          <img src="../jbeil.jpg" alt="">
           <h2>restaurants</h2>
         </div>
 
         <div class="swiper-slide">
-          <img src="jbeil1.jpg" alt="">
+          <img src="../jbeil1.jpg" alt="">
           <h2>port</h2>
         </div>
 
         <div class="swiper-slide">
-          <img src="jbeil2.jpg" alt="">
+          <img src="../jbeil2.jpg" alt="">
           <h2>ruins</h2>
         </div>
 
         <div class="swiper-slide">
-          <img src="jbeil34.jpg" alt="">
+          <img src="../jbeil34.jpg" alt="">
           <h2>old souks</h2>
         </div>
 
@@ -288,9 +285,9 @@
       <div class="box">
           <div class="swiper photos-slider">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="harissa.jpg"></div>
-            <div class="swiper-slide"><img src="jeita.jpg"></div>
-            <div class="swiper-slide"><img src="jbeil.jpg"></div>
+            <div class="swiper-slide"><img src="../harissa.jpg"></div>
+            <div class="swiper-slide"><img src="../jeita.jpg"></div>
+            <div class="swiper-slide"><img src="../jbeil.jpg"></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -312,9 +309,9 @@
       <div class="box">
           <div class="swiper photos-slider">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="harissa.jpg"></div>
-            <div class="swiper-slide"><img src="jeita.jpg"></div>
-            <div class="swiper-slide"><img src="jbeil.jpg"></div>
+            <div class="swiper-slide"><img src="../harissa.jpg"></div>
+            <div class="swiper-slide"><img src="../jeita.jpg"></div>
+            <div class="swiper-slide"><img src="../jbeil.jpg"></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -337,9 +334,9 @@
       <div class="box">
           <div class="swiper photos-slider">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="harissa.jpg"></div>
-            <div class="swiper-slide"><img src="jeita.jpg"></div>
-            <div class="swiper-slide"><img src="jbeil.jpg"></div>
+            <div class="swiper-slide"><img src="../harissa.jpg"></div>
+            <div class="swiper-slide"><img src="../jeita.jpg"></div>
+            <div class="swiper-slide"><img src="../jbeil.jpg"></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
